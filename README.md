@@ -6,7 +6,7 @@
 
 ## The story
 <img style="float:right; margin: auto; padding: 20px;" height=250 src="./images/decent.png"/>
-Robert is an inquisitive boy.  He likes to look around, he likes to _investigate_.  One day, he was wandering around the village well.  The well has long since been dry, and so no one really goes down there.  Mainly because it's spooky and over-grown.  As Robert is playing, he hears a noise from inside the well.  A sort of _squelching_.  Keen to see what's making such a strange noise, he leans over the well, sword (stick) in hand to take a closer look, and to vanquish any dragons which might appear!<br /><br />
+Robert is an inquisitive boy.  He likes to look around, he likes to *investigate*.  One day, he was wandering around the village well.  The well has long since been dry, and so no one really goes down there.  Mainly because it's spooky and over-grown.  As Robert is playing, he hears a noise from inside the well.  A sort of *squelching*.  Keen to see what's making such a strange noise, he leans over the well, sword (stick) in hand to take a closer look, and to vanquish any dragons which might appear!<br /><br />
 
 Now the well has been in the village for well over 400 years.  It was dug by the druids which originally settled here and built their standing stones and homes.  Their work was sound, but 400 years of weathering will break down the strongest of mortar.  Unfortunately for Robert, he was the one to find that out.
 
