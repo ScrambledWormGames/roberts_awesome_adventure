@@ -29,15 +29,15 @@ I'm not sure how to describe me, so i'll get ChatGPT to do it for me:
 
 **Bio – The Engineer**
 
-<img style="float:left; margin: auto; padding: 10px;" height=250 src="./images/the_engineer.png"/>
+<img height=250 src="./images/the_engineer.png"/>
 
-Not a hero. Not a protagonist. Definitely not the chosen one. He lives behind the curtain—writing the scripts, wiring the systems, and duct-taping the logic that keeps the whole mess running.
-
-Starting out with BIOS beeps and burnt fingers in the 90s, he cut his teeth as a network consultant for the local council before diving deep into Linux wrangling, infrastructure architecture, and dashboard-induced existential dread. Grafana whispers the truth, Splunk screams it, and New Relic just judges silently in the corner. GCP gets a visit now and then—not a favorite haunt, but useful when needed.
-
-His weapons: Python, Go, and a knack for making unreliable things behave—at least long enough to matter. The mind wanders, sure, but the work gets done. Always. Now, he’s turning that energy toward something different: a game, written for his son. A rare project with no stakeholders, no SLAs—just purpose.
-
-The Engineer isn’t here to play. He’s here to build the world everyone else gets lost in.
+>Not a hero. Not a protagonist. Definitely not the chosen one. He lives behind the curtain—writing the scripts, wiring the systems, and duct-taping the logic that keeps the whole mess running.
+>
+>Starting out with BIOS beeps and burnt fingers in the 90s, he cut his teeth as a network consultant for the local council before diving deep into Linux wrangling, infrastructure architecture, and dashboard-induced existential dread. Grafana whispers the truth, Splunk screams it, and New Relic just judges silently in the corner. GCP gets a visit now and then—not a favorite haunt, but useful when needed.
+>
+>His weapons: Python, Go, and a knack for making unreliable things behave—at least long enough to matter. The mind wanders, sure, but the work gets done. Always. Now, he’s turning that energy toward something different: a game, written for his son. A rare project with no stakeholders, no SLAs—just purpose.
+>
+>The Engineer isn’t here to play. He’s here to build the world everyone else gets lost in.
 
 ## Current Progress
 As work gets done, i'll put updates in this section here.  It might include screen-grabs, animations or videos.  Who knows.  At the moment, there's nothing to see here, so be on with you weary traveller of git.  Return soon!
