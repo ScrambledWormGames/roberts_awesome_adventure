@@ -5,7 +5,7 @@
 </p>
 
 ## The story
-<img style="float:right; margin: auto; padding: 20px;" height=180 src="./images/decent.png"/>
+<img style="float:right; margin: auto; padding: 20px;" height=250 src="./images/decent.png"/>
 Robert is an inquisitive boy.  He likes to look around, he likes to _investigate_.  One day, he was wandering around the village well.  The well has long since been dry, and so no one really goes down there.  Mainly because it's spooky and over-grown.  As Robert is playing, he hears a noise from inside the well.  A sort of _squelching_.  Keen to see what's making such a strange noise, he leans over the well, sword (stick) in hand to take a closer look, and to vanquish any dragons which might appear!<br /><br />
 
 Now the well has been in the village for well over 400 years.  It was dug by the druids which originally settled here and built their standing stones and homes.  Their work was sound, but 400 years of weathering will break down the strongest of mortar.  Unfortunately for Robert, he was the one to find that out.
@@ -29,7 +29,7 @@ I'm not sure how to describe me, so i'll get ChatGPT to do it for me:
 
 **Bio – The Engineer**
 
-<img style="float:left; margin: auto; padding: 10px;" height=180 src="./images/the_engineer.png"/>
+<img style="float:left; margin: auto; padding: 10px;" height=250 src="./images/the_engineer.png"/>
 
 Not a hero. Not a protagonist. Definitely not the chosen one. He lives behind the curtain—writing the scripts, wiring the systems, and duct-taping the logic that keeps the whole mess running.
 
